@@ -1,6 +1,6 @@
-# RT-QoE: 
+# RT-HQoE: 
 
-A PYTHON implementation of real-time QoE model for adaptive video streaming (RT-QoE) in [IEEE ICME2023] [A REAL-TIME BLIND QUALITY-OF-EXPERIENCE ASSESSMENT METRIC FOR HTTP ADAPTIVE STREAMING](https://arxiv.org/pdf/2303.09818).
+A PYTHON implementation of real-time QoE model for adaptive video streaming (RT-HQoE) in [IEEE ICME2023] [A REAL-TIME BLIND QUALITY-OF-EXPERIENCE ASSESSMENT METRIC FOR HTTP ADAPTIVE STREAMING](https://arxiv.org/pdf/2303.09818).
 
 ## 1. Introduction
 
