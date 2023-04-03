@@ -1,6 +1,6 @@
-# RT-HQoE: 
+# ASPECT: 
 
-A PYTHON implementation of real-time QoE model for HTTP adaptive video streaming (RT-HQoE) in [IEEE ICME2023] [A REAL-TIME BLIND QUALITY-OF-EXPERIENCE ASSESSMENT METRIC FOR HTTP ADAPTIVE STREAMING](https://arxiv.org/pdf/2303.09818).
+A PYTHON implementation of Adaptive Streaming Performance Evaluation and Control Tool (ASPECT) in [IEEE ICME2023] [A REAL-TIME BLIND QUALITY-OF-EXPERIENCE ASSESSMENT METRIC FOR HTTP ADAPTIVE STREAMING](https://arxiv.org/pdf/2303.09818).
 
 ## 1. Introduction
 
